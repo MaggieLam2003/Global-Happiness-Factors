@@ -1,4 +1,4 @@
-# Glocal Happiness Factors
+# Global Happiness Factors
 
 ## Description 
 This project explored the various factors that influenced the happiness rate for different countries. 
