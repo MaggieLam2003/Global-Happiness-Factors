@@ -5,22 +5,24 @@ This project explored the various factors that influenced the happiness rate for
 
 #### Overview
 1. Introduction
-  a. Key Terms
+  -  Key Terms
+
+  -  
   b. Research Questions
   c. Summary of Findings
-2. Data Description
-3. Preregistration Statements
-4. Hypothesis 1
+3. Data Description
+4. Preregistration Statements
+5. Hypothesis 1
   a. Data Analysis
   b. Evaluation of Significance
   c. Interpretation
-5. Hypothesis 2
+6. Hypothesis 2
   a. Data Analysis
   b. Evaluation of Significance
   c. Interpretation
-6. Conclusion
-7. Limitations
-8. Appendix
+7. Conclusion
+8. Limitations
+9. Appendix
 
 **Importance:** Understanding how these various factors can influence happiness is important on a personal level because every individual is invested in their own happiness. However, this research can also be used extract broader insights into the way different societies are structured and how that can subsequently affect happiness.
 
