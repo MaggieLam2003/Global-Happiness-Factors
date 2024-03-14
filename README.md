@@ -14,13 +14,13 @@ This project explored the various factors that influenced the happiness rate for
     1. Data Analysis
     2. Evaluation of Significance
     3. Interpretation
-6. Hypothesis 2
-  a. Data Analysis
-  b. Evaluation of Significance
-  c. Interpretation
-7. Conclusion
-8. Limitations
-9. Appendix
+5. Hypothesis 2
+    1. Data Analysis
+    2. Evaluation of Significance
+    3. Interpretation
+6. Conclusion
+7. Limitations
+8. Appendix
 
 **Importance:** Understanding how these various factors can influence happiness is important on a personal level because every individual is invested in their own happiness. However, this research can also be used extract broader insights into the way different societies are structured and how that can subsequently affect happiness.
 
