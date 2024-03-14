@@ -5,11 +5,9 @@ This project explored the various factors that influenced the happiness rate for
 
 #### Overview
 1. Introduction
-  -  Key Terms
-
-  -  
-  b. Research Questions
-  c. Summary of Findings
+  1.  Key Terms
+  2. Research Questions
+  3. Summary of Findings
 3. Data Description
 4. Preregistration Statements
 5. Hypothesis 1
