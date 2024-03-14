@@ -5,15 +5,15 @@ This project explored the various factors that influenced the happiness rate for
 
 #### Overview
 1. Introduction
-  1.  Key Terms
-  2. Research Questions
-  3. Summary of Findings
-3. Data Description
-4. Preregistration Statements
-5. Hypothesis 1
-  a. Data Analysis
-  b. Evaluation of Significance
-  c. Interpretation
+    1.  Key Terms
+    2. Research Questions
+    3. Summary of Findings
+2. Data Description
+3. Preregistration Statements
+4. Hypothesis 1
+    1. Data Analysis
+    2. Evaluation of Significance
+    3. Interpretation
 6. Hypothesis 2
   a. Data Analysis
   b. Evaluation of Significance
